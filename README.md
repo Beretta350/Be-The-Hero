@@ -43,5 +43,5 @@ O Be The Hero é um projeto desenvolvido pela [Rocketseat](https://rocketseat.co
 #### Mobile 
 
 - Navege até a pasta `Be-The-Hero/mobile/` pelo seu terminal.
-- Rode o comando `$ npm install` para instalar todos os módulos necessários ao React Native.
-- Rode o comando `$ npm start` para iniciar o servidor  de desenvolvimento do Expo.   
+- Rode o comando `npm install` para instalar todos os módulos necessários ao React Native.
+- Rode o comando `npm start` para iniciar o servidor  de desenvolvimento do Expo.   
