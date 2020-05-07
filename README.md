@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="#rocket-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;
 </p>
 
 <br>
@@ -28,19 +28,19 @@ O Be The Hero é um projeto desenvolvido pela [Rocketseat](https://rocketseat.co
 
 ## Execução
 
-# Backend 
+### Backend 
 
 - Navege até a pasta `Be-The-Hero/backend/` pelo seu terminal. 
 - Rode o comando `npm install` para instalar todos os módulos necessários ao Node.JS.
 - Rode o comando `npm start` para iniciar o servidor Backend em `localhost:3333` .
 
-# Frontend | Web
+### Frontend | Web
 
 - Navege até a pasta `Be-The-Hero/frontend/` pelo seu terminal.
 - Rode o comando `npm install` para instalar todos os módulos necessários ao React.
 - Rode o comando `npm start` para iniciar o servidor Frontend em `localhost:3000`.
 
-# Mobile 
+### Mobile 
 
 - Navege até a pasta `Be-The-Hero/mobile/` pelo seu terminal.
 - Rode o comando `$ npm install` para instalar todos os módulos necessários ao React Native.
